@@ -1,4 +1,5 @@
-## Blessing Jamgbadi
+![Header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Blessing%20Jamgbadi&textBg=false&fontColor=fff&fontSize=50&section=header)
+
 Hello there, and welcome to my GitHub profile. I am a young developer currently based in Abuja.
 
 [View my portfolio](https://blessing-j19.github.io)
