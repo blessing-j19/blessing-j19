@@ -8,16 +8,20 @@ Hello there, and welcome to my GitHub profile. I am a young developer currently 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=white)
-![MarkDown](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css5&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-4078c0?style=flat-square&logo=github&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css5&logoColor=white)
-- MarkDown
-- GitHub
-- Git
-- Materialize CSS
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-181717?style=flat-square&logo=markdown&logoColor=white)
+![Materialize](https://img.shields.io/badge/-MaterializeCSS-ee6e73?style=flat-square&logo=matomo&logoColor=white)
 
-You can reach me via: [gmail](blessingjamgbadi19@gmail.com) [instagram](https://blessing_jamgbadi)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=blessing-j19&show=prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_title=true&rank_icon=github&card_width=400)](https://github.com/anuraghazra/github-readme-stats) 
+
+You can reach me via:
+
+[<img height="24" width="24" src="https://cdn.simpleicons.org/gmail" />](mailto:blessingjamgbadi19@gmail.com)
+
+[<img height="24" width="24" src="https://cdn.simpleicons.org/instagram" />](https://www.instagram.com/blessing_jamgbadi)
+
+
 <!--
 **blessing-j19/blessing-j19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
