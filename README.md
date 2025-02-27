@@ -5,9 +5,13 @@ Hello there, and welcome to my GitHub profile. I am a young developer currently 
 [View my portfolio](https://blessing-j19.github.io)
 
 #### What I Work With:
-- HTML
-- CSS
-- JavaScript
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=white)
+![MarkDown](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css5&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-4078c0?style=flat-square&logo=github&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css5&logoColor=white)
 - MarkDown
 - GitHub
 - Git
