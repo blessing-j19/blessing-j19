@@ -17,9 +17,7 @@ Hello there, and welcome to my GitHub profile. I am a young developer currently 
 
 You can reach me via:
 
-[<img height="24" width="24" src="https://cdn.simpleicons.org/gmail" />](mailto:blessingjamgbadi19@gmail.com) GMAIL
-
-[<img height="24" width="24" src="https://cdn.simpleicons.org/instagram" />](https://www.instagram.com/blessing_jamgbadi) INSTAGRAM 
+[<img height="24" width="24" src="https://cdn.simpleicons.org/gmail" />](mailto:blessingjamgbadi19@gmail.com)  [<img height="24" width="24" src="https://cdn.simpleicons.org/instagram" />](https://www.instagram.com/blessing_jamgbadi) 
 
 
 <!--
